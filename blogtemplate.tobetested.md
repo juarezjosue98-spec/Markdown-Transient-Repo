@@ -4,7 +4,7 @@
 ##### author date (MM.DD.YYY) <!-- follow this format-->
 </div style>
 
-### <mark>Standalone bold sentence</mark><!-- this sentence stands alone seperate from the the lede paragraph. Keep it one sentence here!!!-->
+#### <mark>Standalone bold sentence</mark><!-- this sentence stands alone seperate from the the lede paragraph. Keep it one sentence here!!!-->
 
 ## Section Sub-header <!--use H2 header here-->
 __this is the lede which is all bolded and keep it to one sentence as it should summarize what the section is about__. Follow the rest of the paragraph with <mark>__two or three more sentences__</mark>, keep it brief! <!--highlights are not to be applied! This is the basic loop.-->
@@ -27,3 +27,7 @@ __The application<sup> TM </sup>configures to the most immediate routes without 
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |   
 <!-- tables are your best friend as well as bullet points. Paragraphs are still good of course but tables and bullet points are usually good for condesing info. -->
+
+
+----
+Author Info Footer
