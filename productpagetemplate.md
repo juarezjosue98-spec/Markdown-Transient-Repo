@@ -48,13 +48,31 @@ __COMPANY NAME offers an OS intergration feature with hardware accerleration pro
 </td>
 </tr>
 </table>
+
 -------------------
+
 <table>
 <tr>
 <td>
 
 **THE SOLUTION**
-__We deploy the upmost and bleeding-edge technology without compromise to your security platform.__ 
+
+__We deploy the upmost and bleeding-edge technology without compromise to your security platform.__ With the most up-to-date security models we ensure every single API endpoint is secured to protect you from threat actors and AI-enforced attacks.
+
+<div style="text-align: center;">
+
+**Ready to get started?**
+
+<a href="your-link-here" style="
+  background-color: #FF6600;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+">Book a Demo</a>
+<!---this CTA is only placeholder and not to be finalized--->
+</div>
 
 </td>
 <td>
@@ -64,3 +82,29 @@ __We deploy the upmost and bleeding-edge technology without compromise to your s
 </td>
 </tr>
 </table>
+
+|Feature | Offering   |
+|--------|----------- |
+| __Cell 1__| One sentence offering of the feature|
+| __Cell 2__| One sentence offering of the feature|
+| __Cell 3__| One sentence offering of the feature|
+<!-- only include tables for features and offerings like this--->
+
+<div style= "text-align: center;">
+
+>**"With [company name] we finally have the most secured solutions that not only provided API maximal security but also keeps our traffic maintained without latency!"**
+>
+> <mark>**ABC**<mark> 
+<!---make sure to bold this quote provider--->
+>
+>**Fortune 500 Company** 
+
+</div>
+
+<div style= "text-align:center;">
+
+------
+
+**Ready to get started?**
+## See Palo Alto in Action
+Book a 30-minute session with __COMPANY NAME__ and get your secured solution provided!
